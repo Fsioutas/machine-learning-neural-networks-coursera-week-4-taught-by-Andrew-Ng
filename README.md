@@ -1,7 +1,5 @@
 machine-learning-coursera
 
-This work is done by me as part of the course
-
 
 Linear Regression,
 Logistic Regression,
